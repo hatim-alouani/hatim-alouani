@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white) ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
 ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
-![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat)![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat) ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat) ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
 
 
 
