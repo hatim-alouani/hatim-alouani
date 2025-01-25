@@ -29,13 +29,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
     ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-  - **Operating Systems:**
-
   - **Databases Tools:**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
     ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
     ![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat)
-    ![Redis](https://img.shields.io/badge/Redis-007ACC?style=flat)
+    ![REDIS](https://img.shields.io/badge/REDIS-007ACC?style=flat)
 
   - **Big Data Tools:**
     ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
