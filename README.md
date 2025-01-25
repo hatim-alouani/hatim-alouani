@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
-- 💻 **Skills:** Algorithms, Data Analyst, Machine learning
+- 💻 **Skills:** Algorithms, Data Analyst, Machine Learning
 - 🌱 **Interests:** Data & Artificial Intelligence, Backend Development
 - 📜 **Certification:**
-- Diplôme d'études universitaires scientifiques et techniques (DEUST)
-- Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
-- 1337 (42 Network)
+  - Diplôme d'études universitaires scientifiques et techniques (DEUST)
+  - Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
+  - 1337 (42 Network)
 - 🌐 **Website:** ~will be added soon...~
 
 ## 🛠️ Tech Stack
@@ -19,16 +19,37 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - **Programming Languages:**
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white)
   ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
-- **Tools & Technologies:**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat) 
-  ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white) ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
-![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
-![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat) ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
-![Redis](https://img.shields.io/badge/Redis-007ACC?style=flat)
+  ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
 
+- **Tools & Technologies:**
+
+  - **Essential Tools:**
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+    ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
+
+  - **Databases Tools:**
+    ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
+    ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
+    ![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat)
+    ![Redis](https://img.shields.io/badge/Redis-007ACC?style=flat)
+
+  - **Big Data Tools:**
+    ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
+    ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
+    ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
+    ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
+    ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
+    ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
+
+  - **Development Tools:**
+    ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+  - **Operating Systems:**
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -38,7 +59,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 </div>
 
 ## 🔥 Contributions
-  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
+
+![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
 
 ## 🌍 Connect with Me
 
@@ -51,3 +73,4 @@ You can reach out to me through various platforms. Feel free to connect with me!
 **HatimAlouani/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
+
