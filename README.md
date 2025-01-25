@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![MapReduce](https://img.shields.io/badge/apache-mapreduce-007ACC?style=flat)
     ![Hive](https://img.shields.io/badge/apache-hive-F7B714?style=flat&labelColor=F7B714)
     ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
+    ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
+
 
   - **Development Tools:**
     ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
