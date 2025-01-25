@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🛠️ Tech Stack
 
 - **Programming Languages:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 
@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 
   - **Big Data :**
+  - ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
     ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
-    ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
     ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
     ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
