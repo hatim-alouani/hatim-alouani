@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 - **Tools & Technologies:**
 
-  - **Essential Tools & Technologies:**
+  - **Essential :**
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
