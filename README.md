@@ -25,19 +25,19 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 - **Tools & Technologies:**
 
-  - **Essential Tools:**
+  - **Essential Tools & Technologies:**
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 
-  - **Databases Tools:**
+  - **Databases :**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
     ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
 
 
-  - **Big Data Tools:**
+  - **Big Data :**
     ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
     ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&logo=apache-hive&logoColor=white)
     
     
-  - **Development Tools:**
+  - **Development :**
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
