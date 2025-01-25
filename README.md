@@ -34,8 +34,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
       <div style="width: 80%; height: 10px; background-color: #4CAF50;"></div>
     </div>
-  </div>
-  <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
     <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
       <div style="width: 80%; height: 10px; background-color: #4CAF50;"></div>
