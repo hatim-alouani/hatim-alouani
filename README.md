@@ -17,9 +17,10 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🛠️ Tech Stack
 
 - **Programming Languages:**
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white)
-  ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 - **Tools & Technologies:**
 
@@ -46,7 +47,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     
     
   - **Development Tools:**
-    ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
