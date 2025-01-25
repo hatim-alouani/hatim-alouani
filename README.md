@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
+    ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+  - **Operating Systems:**
 
   - **Databases Tools:**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
