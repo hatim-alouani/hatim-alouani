@@ -29,8 +29,24 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 
   - **Databases Tools:**
-    ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
-    ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
+    <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+    <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 80%; height: 10px; background-color: #4CAF50;"></div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 80%; height: 10px; background-color: #4CAF50;"></div>
+    </div>
+  </div>
+    <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
+    <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 70%; height: 10px; background-color: #4CAF50;"></div>
+    </div>
+    </div>
     ![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat)
     ![Redis](https://img.shields.io/badge/Redis-007ACC?style=flat)
 
@@ -41,13 +57,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
     ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
     ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
-    <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 70%; height: 10px; background-color: #4CAF50;"></div>
-    </div>
-  </div>
-
+  
   - **Development Tools:**
     ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
