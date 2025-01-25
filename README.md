@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
     ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-  - **Operating Systems:**
+  - **Linux & Scripting::**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
 ## 📈 GitHub Stats
