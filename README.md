@@ -41,6 +41,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
     ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
     ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
+    <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
+    <div style="width: 100%; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 70%; height: 10px; background-color: #4CAF50;"></div>
+    </div>
+  </div>
 
   - **Development Tools:**
     ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
