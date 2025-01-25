@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
     ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
-    ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
+    ![MapReduce](https://img.shields.io/badge/apache-mapreduce-007ACC?style=flat)
+    ![Hive](https://img.shields.io/badge/apache-hive-F7B714?style=flat&labelColor=F7B714)
     ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
 
   - **Development Tools:**
@@ -47,11 +47,10 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-    ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-  - **Linux & Scripting::**
+  - **Linux & Scripting:**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
-    ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+    ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ## 📈 GitHub Stats
 
