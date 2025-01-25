@@ -1,63 +1,58 @@
-# Course Recommendation System Using Big Data 📊
+# Hi there! 👋
 
-This project implements a **Course Recommendation System** utilizing **Big Data** tools to provide personalized course recommendations based on user preferences and ratings.
+Welcome to my GitHub profile! I'm thrilled to have you here.
 
-## 🔑 Prerequisites
+## About Me
 
-Before running the project, ensure the following tools are installed and configured:
+[![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
+- 🎓 **Student at [42 coding school](https://www.42.fr/)**
+- 💻 **Skills:** Algorithms, Data Analyst, Machine Learning
+- 🌱 **Interests:** Data & Artificial Intelligence, Backend Development
+- 📜 **Certification:**
+  - Diplôme d'études universitaires scientifiques et techniques (DEUST)
+  - Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
+  - 1337 (42 Network)
+- 🌐 **Website:** ~will be added soon...~
 
-- **Hadoop & HDFS**: For distributed data storage 🗃️
-- **PySpark**: For data processing and implementing the ALS algorithm 📈
-- **Cassandra**: For storing user data and recommendations 🗄️
-- **Python**: For data cleaning and backend scripting 🐍
-- **Flask**: For creating the backend API ⚙️
-- **HTML/CSS/JavaScript**: For the frontend interface 🌐
+## 🛠️ Tech Stack
 
-## ⚙️ Tools & Technologies Used
+- **Programming Languages:**
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white)
+  ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
 
-### Big Data Tools:
-- ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-- ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
+- **Tools & Technologies:**
 
-### Databases:
-- ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
+  - **Essential Tools:**
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+    ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 
-### Backend:
-- ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+  - **Databases Tools:**
+    ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
+    ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
+    ![HBase](https://img.shields.io/badge/HBase-007ACC?style=flat)
+    ![Redis](https://img.shields.io/badge/Redis-007ACC?style=flat)
 
-### Frontend:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - **Big Data Tools:**
+    ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
+    ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
+    ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
+    ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat)
+    ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&labelColor=F7B714)
+    ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
 
-### Other Tools:
-- ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
+  - **Development Tools:**
+    ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+    ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## 🌍 About the Project
+  - **Operating Systems:**
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
-The **Course Recommendation System** uses Big Data technologies to provide **personalized recommendations** for users based on their course ratings and preferences. It’s designed to be **scalable**, **efficient**, and **user-centric**.
-
-### Key Features:
-- **Distributed Storage (HDFS)** for handling large datasets
-- **Scalable Processing (PySpark)** for generating course recommendations
-- **Fast Querying (Cassandra)** for retrieving and storing user data
-
-This project demonstrates how Big Data can be leveraged for **real-time, personalized recommendations**.
-
-## 📈 How it Works
-
-1. **Data Collection & Cleaning**: We use datasets to clean and prepare course data.
-2. **Model Training**: PySpark’s ALS algorithm is used to train the recommendation model.
-3. **Backend API**: Flask is used to serve API requests and fetch recommendations.
-4. **Frontend Interface**: A simple UI using HTML, CSS, and JavaScript allows users to interact with the system.
-
-## 🚀 Future Enhancements
-
-- Explore additional recommendation algorithms for improved accuracy
-- Enhance the user interface for a better experience
-- Integrate more advanced features like collaborative filtering
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haalouan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
@@ -66,11 +61,17 @@ This project demonstrates how Big Data can be leveraged for **real-time, persona
 
 ## 🔥 Contributions
 
-![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)
+![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
 
-## 🌐 Connect with Me
+## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/hatim-alouani-527617304/)  
-- [Instagram](https://instagram.com/hatim_alouani/)
+You can reach out to me through various platforms. Feel free to connect with me!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-alouani-527617304/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hatim_alouani/)
+
+<!--
+**HatimAlouani/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
 
