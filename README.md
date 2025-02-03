@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Essential :**
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
   - **Databases :**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
