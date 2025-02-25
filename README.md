@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
 
+  - **Web Server:**
+    ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
   - **Big Data :**
     ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
