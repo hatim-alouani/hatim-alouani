@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
 
   - **Database Management:**
-    ![TablePlus](https://img.shields.io/badge/TablePlus-FF4500?style=flat&logo=tableplus&logoColor=white)
+    ![TablePlus](https://img.shields.io/badge/TablePlus-FF4500?style=flat)
+
 
   - **Web Server:**
     ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
@@ -62,6 +63,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Linux & Scripting:**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+  - **Virtualization:**
+    ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 
 ## 📈 GitHub Stats
