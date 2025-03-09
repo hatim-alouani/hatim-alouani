@@ -48,12 +48,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
   - **Big Data :**
     ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
-    ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    ![YARN](https://img.shields.io/badge/YARN-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    ![MapReduce](https://img.shields.io/badge/MapReduce-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
-    ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&logo=apache-hive&logoColor=white)
+    ![Hadoop Ecosystem](https://img.shields.io/badge/Hadoop%20Ecosystem-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
     
   - **Development :**
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
