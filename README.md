@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Big Data :**
     ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
-    ![Hadoop Ecosystem](https://img.shields.io/badge/Hadoop%20Ecosystem-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
     
   - **Development :**
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
