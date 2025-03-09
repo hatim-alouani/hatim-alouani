@@ -35,13 +35,13 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Databases :**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+    ![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=flat&logo=apache-hive&logoColor=black)
     ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
 
   - **Database Management:**
     ![TablePlus](https://img.shields.io/badge/TablePlus-FF4500?style=flat)
-
 
   - **Web Server:**
     ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
@@ -58,7 +58,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Development :**
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
