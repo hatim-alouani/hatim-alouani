@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
-- 💻 **Skills:** Algorithms, Data Analyst, Machine Learning
-- 🌱 **Interests:** Data & Artificial Intelligence, Backend Development
+- 🌱 **Interests:** Data & AI, Backend Development
 - 📜 **Certification:**
   - Diplôme d'études universitaires scientifiques et techniques (DEUST)
   - Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
@@ -26,11 +25,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
   - **Essential :**
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
     ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
   - **SQL Databases :**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
@@ -57,6 +56,13 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+  - **Machine Learning Libraries :**
+    ![MLlib](https://img.shields.io/badge/MLlib-009C6B?style=flat&logo=apache-spark&logoColor=white)
+    ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)  
+
 
 
 ## 📈 GitHub Stats
