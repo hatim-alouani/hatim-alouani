@@ -37,6 +37,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
 
+  - **Database Management:**
+    ![TablePlus](https://img.shields.io/badge/TablePlus-FF4500?style=flat&logo=tableplus&logoColor=white)
+
   - **Web Server:**
     ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
@@ -49,7 +52,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![HBase](https://img.shields.io/badge/HBase-5E2F41?style=flat&logo=apache-hbase&logoColor=white)
     ![Hive](https://img.shields.io/badge/Hive-F7B714?style=flat&logo=apache-hive&logoColor=white)
     
-    
   - **Development :**
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -60,6 +62,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Linux & Scripting:**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
