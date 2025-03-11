@@ -63,12 +63,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)
 
-  - **Machine Learning Algorithms :**
-    ![Linear Regression](https://img.shields.io/badge/Linear_Regression-007ACC?style=flat&logo=python&logoColor=white)
-    ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-00A8E8?style=flat&logo=python&logoColor=white)
-    ![KNN](https://img.shields.io/badge/KNN-FF6F00?style=flat&logo=python&logoColor=white)
-    ![ALS](https://img.shields.io/badge/ALS-4E88B0?style=flat&logo=apache-spark&logoColor=white)
-
 ## 📈 GitHub Stats
 
 <div align="center">
