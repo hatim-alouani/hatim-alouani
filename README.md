@@ -63,10 +63,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)
 
-## 🔥 Contributions
-
-![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
-
 ## 🌍 Connect with Me
 
 You can reach out to me through various platforms. Feel free to connect with me!
