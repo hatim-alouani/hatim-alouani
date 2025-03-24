@@ -63,13 +63,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haalouan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haalouan&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="GitHub Stats" />
-</div>
-
 ## 🔥 Contributions
 
 ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
