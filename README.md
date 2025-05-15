@@ -57,13 +57,15 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-  - **Machine Learning Libraries :**
-    ![MLlib](https://img.shields.io/badge/MLlib-009C6B?style=flat&logo=apache-spark&logoColor=white)
+  - **Machine Learning :**
     ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)
-
+    
+  - **Deep Learning :**
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+ 
+    - **Natural Language Processing (NLP) :**
     ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
     ![NLTK](https://img.shields.io/badge/NLTK-85BA45?style=flat&logo=nltk&logoColor=white)
 
