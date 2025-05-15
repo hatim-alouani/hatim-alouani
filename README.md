@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Deep Learning :**
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
  
-    - **Natural Language Processing (NLP) :**
+  - **Natural Language Processing (NLP) :**
     ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
     ![NLTK](https://img.shields.io/badge/NLTK-85BA45?style=flat&logo=nltk&logoColor=white)
 
