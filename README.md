@@ -63,6 +63,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-008CBA?style=flat&logo=matplotlib&logoColor=white)
 
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+    ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+    ![NLTK](https://img.shields.io/badge/NLTK-85BA45?style=flat&logo=nltk&logoColor=white)
+
+
 ## 🌍 Connect with Me
 
 You can reach out to me through various platforms. Feel free to connect with me!
