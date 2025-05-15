@@ -52,9 +52,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
     
   - **Development :**
-    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
   - **Machine Learning :**
