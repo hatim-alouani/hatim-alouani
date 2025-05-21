@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 🌱 **Interests:** Data & AI
 - 📜 **Certification:**
   - Diplôme d'études universitaires scientifiques et techniques (DEUST)
-  - Licence d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
+  - Licence d’excellence Systèmes d’Information et Intelligence Artificielle
   - 1337 (42 Network)
 - 🌐 **Website:** ~will be added soon...~
 
