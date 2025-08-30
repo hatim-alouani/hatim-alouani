@@ -59,9 +59,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
   - **Web Server :**
     ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-    
-  - **Cloud :**
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
   - **DevOps :**
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
