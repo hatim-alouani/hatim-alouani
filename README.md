@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 📜 **Certification:**
   - Diplôme d'études universitaires scientifiques et techniques (DEUST)
   - Licence d’excellence Systèmes d’Information et Intelligence Artificielle
-- 🌐 **Website:** ~will be added soon...~
+- 🌐 **Portfolio:** https://hatimalouani.vercel.app
 
 ## 🛠️ Tech Stack
 
