@@ -73,6 +73,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 You can reach out to me through various platforms. Feel free to connect with me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-alouani-527617304/)
+[![Indeed](https://img.shields.io/badge/Indeed-FF0000?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/alouanih-rtd5hn4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hatim_alouani/)
 
 <!--
