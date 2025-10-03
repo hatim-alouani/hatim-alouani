@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
 - 🌱 **Interests:** Data & AI
 - 📜 **Certification:**
+   - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- 🎓 **Education:**
   - Diplôme d'études universitaires scientifiques et techniques (DEUST)
   - Licence d’excellence Systèmes d’Information et Intelligence Artificielle
 - 🌐 **Portfolio:** https://hatimalouani.vercel.app
