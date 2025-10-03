@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     
   - **Data Visualization & BI :**
     ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
     
   - **SQL Databases :**
     ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
