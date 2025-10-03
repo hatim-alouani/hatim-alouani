@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 🎓 **Education:**
   - Diplôme d'études universitaires scientifiques et techniques (DEUST)
   - Licence d’excellence Systèmes d’Information et Intelligence Artificielle
+  - Common Core - 1337 Coding School
 - 🌐 **Portfolio:** https://hatimalouani.vercel.app
 
 ## 🛠️ Tech Stack
