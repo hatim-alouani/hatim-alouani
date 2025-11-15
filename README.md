@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## About Me
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
-- 💼 **AI Software Engineer at A2XCORP**
-- 🚀 **Co-Founder of AfriMedAI**
+- 💼 **AI Software Engineer at [A2XCORP](https://www.a2xcorp.com/)**
+- 🚀 **Co-Founder of [AfriMedAI](https://www.linkedin.com/company/afrimedai/)**
 - 🎓 **Student at [1337 Coding School](https://1337.ma/)**
 - 🌱 **Interests:** Data & AI
 - 📜 **Certification:**
