@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## About Me
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
+- 💼 **AI Software Engineer at A2XCorp**
+- 🚀 **Co-Founder of AfriMedAI**
 - 🎓 **Student at [1337 Coding School](https://1337.ma/)**
 - 🌱 **Interests:** Data & AI
 - 📜 **Certification:**
@@ -34,9 +36,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   - **Deep Learning :**
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
  
-  - **Natural Language Processing (NLP) :**
+  - **Natural Language Processing (NLP) & LLMs:**
     ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
     ![NLTK](https://img.shields.io/badge/NLTK-85BA45?style=flat&logo=nltk&logoColor=white)
+    ![Llama](https://img.shields.io/badge/Llama-000000?style=flat&logo=meta&logoColor=white)
+    ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
   - **Big Data :**
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
@@ -73,10 +77,13 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
   - **DevOps :**
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-    ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+   ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+   ![Kibana](https://img.shields.io/badge/Kibana-EF167F?style=flat&logo=kibana&logoColor=white)
+   ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
 
   - **Scripting :**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
