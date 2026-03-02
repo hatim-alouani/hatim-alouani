@@ -44,6 +44,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
     ![FileSearch](https://img.shields.io/badge/FileSearch-4CAF50?style=flat&logo=files&logoColor=white)
     ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
+    
+  - **Automation:**
+    ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat&logo=n8n&logoColor=white)
 
   - **Big Data :**
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
@@ -87,6 +90,10 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
    ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
    ![Kibana](https://img.shields.io/badge/Kibana-EF167F?style=flat&logo=kibana&logoColor=white)
    ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
+
+- **Cloud:**
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+    ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
   - **Scripting :**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
