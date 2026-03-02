@@ -40,6 +40,10 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
     ![NLTK](https://img.shields.io/badge/NLTK-85BA45?style=flat&logo=nltk&logoColor=white)
     ![Llama](https://img.shields.io/badge/Llama-000000?style=flat&logo=meta&logoColor=white)
     ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+    ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+    ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
+    ![FileSearch](https://img.shields.io/badge/FileSearch-4CAF50?style=flat&logo=files&logoColor=white)
+    ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
 
   - **Big Data :**
     ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
