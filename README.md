@@ -91,10 +91,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
    ![Kibana](https://img.shields.io/badge/Kibana-EF167F?style=flat&logo=kibana&logoColor=white)
    ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
 
-- **Cloud:**
+  - **Cloud:**
     ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
     ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-
   - **Scripting :**
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
